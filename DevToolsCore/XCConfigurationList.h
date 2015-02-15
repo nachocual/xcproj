@@ -5,4 +5,6 @@
 
 - (NSArray<XCBuildConfiguration> *) buildConfigurations;
 
+- (id)buildSettingDictionariesForConfigurationName:(id)arg1 errors:(id *)arg2;
+
 @end
